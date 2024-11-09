@@ -1,2 +1,2 @@
 learnig merge 
-thats it
+thats and i changed this from master
